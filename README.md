@@ -38,10 +38,6 @@ The main objectives of this project are:
 
 ---
 
-## Power BI Dashboard
-
-[Student Academic Performance Dashboard](Screenshots/Powerbi_dashboard.png)
-
 # Dataset Information
 
 The project uses the following CSV dataset:
