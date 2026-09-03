@@ -12,7 +12,7 @@ The project demonstrates how raw student data can be transformed into meaningful
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 The main objectives of this project are:
 
