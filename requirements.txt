@@ -1,0 +1,10 @@
+## Requirements
+
+| Technology |         Purpose                   |
+|------------|-----------------------------------|
+| Python     |      Data analysis and processing |
+| Pandas     |      Data cleaning and analysis   |
+| Matplotlib |      Data visualization           |
+| CSV        |      Dataset source               |
+| MySQL      |      SQL-based data analysis      |
+| Power BI   |      Interactive dashboard        |                         
